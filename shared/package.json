@@ -1,0 +1,6 @@
+{
+  "name": "@steam-draft/contracts",
+  "private": true,
+  "type": "module",
+  "exports": "./index.ts"
+}

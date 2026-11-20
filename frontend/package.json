@@ -1,0 +1,24 @@
+{
+  "name": "@steam-draft/frontend",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "cd .. && bun --env-file=.env --hot frontend/dev.ts",
+    "build": "bun build ./index.html --outdir=dist --target=browser --minify --sourcemap=linked",
+    "typecheck": "tsc --project tsconfig.json"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@fontsource-variable/golos-text": "^5.2.0",
+    "@mui/icons-material": "^7.3.0",
+    "@mui/material": "^7.3.0",
+    "@steam-draft/contracts": "workspace:*",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0"
+  }
+}

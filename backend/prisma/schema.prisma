@@ -1,0 +1,96 @@
+generator client {
+  provider = "prisma-client"
+  output   = "../generated/prisma"
+  runtime  = "bun"
+}
+
+datasource db {
+  provider = "sqlite"
+}
+
+model Player {
+  id         String      @id
+  day        Int         @default(0)
+  rollsToday Int         @default(0) @map("rolls_today")
+  bonus      Int         @default(0)
+  rollsTotal Int         @default(0) @map("rolls_total")
+  points     Int         @default(0)
+  rolls      Roll[]
+  votes      Vote[]
+  gameLists  GameList[]
+  runs       Expedition[]
+
+  @@map("players")
+}
+
+model Roll {
+  id         String @id
+  playerId   String @map("player_id")
+  games      String
+  filters    String
+  selectedId BigInt? @map("selected_id")
+  createdAt  BigInt @map("created_at")
+  shareId    String? @unique @map("share_id")
+  player     Player @relation(fields: [playerId], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  votes      Vote[]
+
+  @@index([playerId, createdAt(sort: Desc)], map: "player_rolls")
+  @@map("rolls")
+}
+
+model Vote {
+  rollId   String @map("roll_id")
+  playerId String @map("player_id")
+  gameId   BigInt @map("game_id")
+  roll     Roll   @relation(fields: [rollId], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  player   Player @relation(fields: [playerId], references: [id], onDelete: NoAction, onUpdate: NoAction)
+
+  @@id([rollId, playerId])
+  @@map("votes")
+}
+
+model GameList {
+  playerId String  @map("player_id")
+  appId    BigInt  @map("app_id")
+  kind     String
+  game     String
+  addedAt  BigInt  @map("added_at")
+  played   Boolean @default(false)
+  player   Player  @relation(fields: [playerId], references: [id], onDelete: NoAction, onUpdate: NoAction)
+
+  @@id([playerId, appId, kind])
+  @@map("game_lists")
+}
+
+model SteamCatalogEntry {
+  country  String
+  language String
+  appId    BigInt @map("app_id")
+  game     String
+
+  @@id([country, language, appId])
+  @@map("steam_catalog")
+}
+
+model SteamCursor {
+  country  String
+  language String
+  appId    BigInt @map("app_id")
+  revision Int    @default(0)
+
+  @@id([country, language])
+  @@map("steam_cursor")
+}
+
+model Expedition {
+  id        String @id
+  playerId  String @map("player_id")
+  createdAt BigInt @map("created_at")
+  phase     String
+  step      Int
+  state     String
+  player    Player @relation(fields: [playerId], references: [id], onDelete: NoAction, onUpdate: NoAction)
+
+  @@index([playerId, createdAt(sort: Desc)], map: "player_expeditions")
+  @@map("expeditions")
+}

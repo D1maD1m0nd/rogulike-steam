@@ -1,0 +1,20 @@
+{
+  "name": "steam-draft",
+  "private": true,
+  "packageManager": "bun@1.4.2",
+  "workspaces": ["backend", "frontend", "shared"],
+  "scripts": {
+    "dev": "bun run db:generate && bun run --parallel --filter @steam-draft/backend --filter @steam-draft/frontend dev",
+    "build": "bun run db:generate && bun run --filter @steam-draft/frontend build && bun run --filter @steam-draft/backend build",
+    "start": "bun run --filter @steam-draft/backend start",
+    "typecheck": "bun run db:generate && bun run --filter '*' typecheck",
+    "prisma": "bun run --cwd backend prisma:cli",
+    "db:generate": "bun run prisma generate",
+    "db:migrate": "bun --env-file=.env backend/scripts/migrate.ts",
+    "catalog:seed": "bun backend/scripts/seed.ts",
+    "catalog:sync": "bun backend/scripts/sync.ts"
+  },
+  "devDependencies": {
+    "typescript": "~5.9.3"
+  }
+}

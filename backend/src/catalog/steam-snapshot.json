@@ -1,0 +1,2593 @@
+{
+  "country": "ru",
+  "language": "russian",
+  "verifiedAt": "2026-11-20T10:03:38.277Z",
+  "games": [
+    {
+      "id": 1145360,
+      "title": "Hades",
+      "description": "Бросьте вызов богу мёртвых и прорубите себе путь из Подземного мира в игре в жанрах «рогалик» и «данжен-кроулер» от создателей Bastion, Transistor и Pyre.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/header.jpg?t=1758127023",
+      "url": "https://store.steampowered.com/app/1145360/",
+      "genres": [
+        "action",
+        "indie",
+        "rpg"
+      ],
+      "primaryGenre": "action",
+      "modes": [
+        "solo"
+      ],
+      "platforms": [
+        "windows",
+        "mac"
+      ],
+      "free": false,
+      "price": "880 руб.",
+      "priceMinor": 88000,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 282129,
+        "negative": 5807
+      }
+    },
+    {
+      "id": 413150,
+      "title": "Stardew Valley",
+      "description": "Вам досталась старая дедушкина ферма в долине Стардью. С горстью монет в кармане и старыми инструментами в руках вы начинаете новую жизнь. Сможете ли вы превратить пустырь в цветущий сад?",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg?t=1786554168",
+      "url": "https://store.steampowered.com/app/413150/",
+      "genres": [
+        "indie",
+        "rpg",
+        "simulation"
+      ],
+      "primaryGenre": "rpg",
+      "modes": [
+        "solo",
+        "multi",
+        "coop"
+      ],
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "free": false,
+      "price": "299 руб.",
+      "priceMinor": 29900,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 891807,
+        "negative": 13329
+      }
+    },
+    {
+      "id": 504230,
+      "title": "Celeste",
+      "description": "В платформере от создателей TowerFall Мэдлин сражается со своими демонами на пути к вершине горы Селеста. Преодолевай сотни хорошо продуманных сложностей, отыскивай тайники и постигай загадку горы.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/504230/header.jpg?t=1714089525",
+      "url": "https://store.steampowered.com/app/504230/",
+      "genres": [
+        "action",
+        "adventure",
+        "indie"
+      ],
+      "primaryGenre": "action",
+      "modes": [
+        "solo"
+      ],
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "free": false,
+      "price": "849 руб.",
+      "priceMinor": 84900,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 131063,
+        "negative": 3468
+      }
+    },
+    {
+      "id": 383870,
+      "title": "Firewatch",
+      "description": "Firewatch — одиночная игра-загадка от первого лица, действие которой происходит в лесах Вайоминга.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/383870/41a7d0ff4c2dab4ed69c53c9a29c931e6f62948d/header.jpg?t=1755789801",
+      "backdrop": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/383870/ss_80432f2d4f4192017115c23e7dff090df95b204a.1920x1080.jpg?t=1755789801",
+      "url": "https://store.steampowered.com/app/383870/",
+      "genres": [
+        "adventure",
+        "indie"
+      ],
+      "primaryGenre": "adventure",
+      "modes": [
+        "solo"
+      ],
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "free": false,
+      "price": "710 руб.",
+      "priceMinor": 71000,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 85469,
+        "negative": 8988
+      }
+    },
+    {
+      "id": 367520,
+      "title": "Hollow Knight",
+      "description": "Hollow Knight – это эпическое приключение в огромном разрушенном королевстве, полном насекомых и героев. Исследуйте извилистые пещеры, сражайтесь с порчеными тварями и заводите дружбу со странными жуками – все это в классической двухмерной ручной рисовке.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/3c3489495136b26b34f8a9543c7f5645b99d388c/header.jpg?t=1776125684",
+      "url": "https://store.steampowered.com/app/367520/",
+      "genres": [
+        "action",
+        "adventure",
+        "indie"
+      ],
+      "primaryGenre": "action",
+      "modes": [
+        "solo"
+      ],
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "free": false,
+      "price": "550 руб.",
+      "priceMinor": 55000,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 493865,
+        "negative": 15379
+      }
+    },
+    {
+      "id": 620,
+      "title": "Portal 2",
+      "description": "Программа вечного тестирования расширена: создавайте совместные головоломки для себя и друзей!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/faffc0f560786e2f05104a8d2fac837c6969bf13/header.jpg?t=1790187113",
+      "url": "https://store.steampowered.com/app/620/",
+      "genres": [
+        "action",
+        "adventure"
+      ],
+      "primaryGenre": "action",
+      "modes": [
+        "solo",
+        "multi",
+        "coop"
+      ],
+      "platforms": [
+        "windows",
+        "linux"
+      ],
+      "free": false,
+      "price": "445 руб.",
+      "priceMinor": 44500,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 388004,
+        "negative": 5012
+      }
+    },
+    {
+      "id": 105600,
+      "title": "Terraria",
+      "description": "Копайте, сражайтесь, исследуйте, стройте! Нет ничего невозможного в этой насыщенной событиями приключенческой игре. Также доступен комплект для четверых!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg?t=1792530636",
+      "url": "https://store.steampowered.com/app/105600/",
+      "genres": [
+        "action",
+        "adventure",
+        "indie",
+        "rpg"
+      ],
+      "primaryGenre": "action",
+      "modes": [
+        "solo",
+        "multi",
+        "coop"
+      ],
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "free": false,
+      "price": "385 руб.",
+      "priceMinor": 38500,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 1219833,
+        "negative": 30792
+      }
+    },
+    {
+      "id": 427520,
+      "title": "Factorio",
+      "description": "Factorio - это игра о создании автоматизированных фабрик по производству вещей все более возрастающей сложности, в пределах бесконечного 2D мира - Используйте свое воображение для проектирования фабрик, комбинируйте простые элементы в комплексные структуры и, наконец, защищайтесь от враждебных существ.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ab9a2df0a77caebde20dc45adc021de8cdcf7cc5/header.jpg?t=1792752343",
+      "url": "https://store.steampowered.com/app/427520/",
+      "genres": [
+        "casual",
+        "indie",
+        "simulation",
+        "strategy"
+      ],
+      "primaryGenre": "casual",
+      "modes": [
+        "solo",
+        "multi",
+        "coop"
+      ],
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "free": false,
+      "price": "1200 руб.",
+      "priceMinor": 120000,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 189118,
+        "negative": 4747
+      }
+    },
+    {
+      "id": 294100,
+      "title": "RimWorld",
+      "description": "Научно-фантастический симулятор колонии с интеллектуальным AI-рассказчиком. Создаёт истории, моделируя психологию, экологию, стрельбу, ближний бой, климат, биомы, дипломатию, межличностные отношения, искусство, медицину, торговлю и многое другое.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/76e0613b8197327299d5dbabb0a7fd7828a689a2/header.jpg?t=1782756789",
+      "url": "https://store.steampowered.com/app/294100/",
+      "genres": [
+        "indie",
+        "simulation",
+        "strategy"
+      ],
+      "primaryGenre": "simulation",
+      "modes": [
+        "solo"
+      ],
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "free": false,
+      "price": "1099 руб.",
+      "priceMinor": 109900,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 207256,
+        "negative": 4536
+      }
+    },
+    {
+      "id": 646570,
+      "title": "Slay the Spire",
+      "description": "Мы смешали жанры ККИ и «рогалик» в попытке предоставить вам нашу лучшую одиночную карточную стратегию. Вам предстоит собрать уникальную колоду, встретить множество причудливых монстров, найти разнообразные могущественные реликвии и повергнуть Шпиль!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/646570/header.jpg?t=1774015376",
+      "url": "https://store.steampowered.com/app/646570/",
+      "genres": [
+        "indie",
+        "strategy"
+      ],
+      "primaryGenre": "strategy",
+      "modes": [
+        "solo"
+      ],
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "free": false,
+      "price": "999 руб.",
+      "priceMinor": 99900,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 188453,
+        "negative": 4968
+      }
+    },
+    {
+      "id": 548430,
+      "title": "Deep Rock Galactic",
+      "description": "Deep Rock Galactic — кооперативный шутер от первого лица для 1-4 игроков, в котором вас ждут крутые космические дворфы, полностью разрушаемое окружение, процедурно генерируемые системы пещер, а также бесконечные волны инопланетных чудовищ.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/37b58a6c4816ee60b0ca97cb6724d6e904c58c41/header.jpg?t=1794917410",
+      "url": "https://store.steampowered.com/app/548430/",
+      "genres": [
+        "action"
+      ],
+      "primaryGenre": "action",
+      "modes": [
+        "solo",
+        "multi",
+        "coop"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "free": false,
+      "price": "1079 руб.",
+      "priceMinor": 107900,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 296332,
+        "negative": 8250
+      }
+    },
+    {
+      "id": 1086940,
+      "title": "Baldur's Gate 3",
+      "description": "Соберите отряд и вернитесь в Забытые Королевства. Вас ждет история о дружбе и предательстве, выживании и самопожертвовании, о сладком зове абсолютной власти.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1777363040",
+      "url": "https://store.steampowered.com/app/1086940/",
+      "genres": [
+        "adventure",
+        "rpg",
+        "strategy"
+      ],
+      "primaryGenre": "adventure",
+      "modes": [
+        "solo",
+        "multi",
+        "coop"
+      ],
+      "platforms": [
+        "windows",
+        "mac"
+      ],
+      "free": false,
+      "price": "1999 руб.",
+      "priceMinor": 199900,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 737333,
+        "negative": 24295
+      }
+    },
+    {
+      "id": 1245620,
+      "title": "ELDEN RING",
+      "description": "НОВЫЙ ФЭНТЕЗИЙНЫЙ РОЛЕВОЙ БОЕВИК. Восстань, погасшая душа! Междуземье ждёт своего повелителя. Пусть благодать приведёт тебя к Кольцу Элден.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg?t=1790290043",
+      "url": "https://store.steampowered.com/app/1245620/",
+      "genres": [
+        "action",
+        "rpg"
+      ],
+      "primaryGenre": "action",
+      "modes": [
+        "solo",
+        "multi",
+        "coop"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "free": false,
+      "price": "3599 руб.",
+      "priceMinor": 359900,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 779040,
+        "negative": 57025
+      }
+    },
+    {
+      "id": 239030,
+      "title": "Papers, Please",
+      "description": "Поздравляем!Подведены итоги октябрьской лотереи рабочих мест! Вы - победитель!Немедленно обратитесь в Министерство въезда на пропускном пункте Грештин, чтобы вступить в должность.Вашей семье будет предоставлена квартира в Восточном Грештине, в жилом доме 8 класса.Слава Арстотцке!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239030/header.jpg?t=1678266428",
+      "url": "https://store.steampowered.com/app/239030/",
+      "genres": [
+        "adventure",
+        "indie"
+      ],
+      "primaryGenre": "adventure",
+      "modes": [
+        "solo"
+      ],
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "free": false,
+      "price": "385 руб.",
+      "priceMinor": 38500,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 71890,
+        "negative": 1944
+      }
+    },
+    {
+      "id": 212680,
+      "title": "FTL: Faster Than Light",
+      "description": "Этот «двумерный симулятор космического корабля» отправит ваш корабль и экипаж в полное славы и горьких поражений путешествие через случайным образом генерируемую галактику.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212680/f21426ac9ad51338fa33becce88984758e07c38b/header.jpg?t=1748969356",
+      "url": "https://store.steampowered.com/app/212680/",
+      "genres": [
+        "indie",
+        "simulation",
+        "strategy"
+      ],
+      "primaryGenre": "simulation",
+      "modes": [
+        "solo"
+      ],
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "free": false,
+      "price": "385 руб.",
+      "priceMinor": 38500,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 59836,
+        "negative": 3274
+      }
+    },
+    {
+      "id": 264710,
+      "title": "Subnautica",
+      "description": "Descend into the depths of an alien underwater world filled with wonder and peril. Craft equipment, pilot submarines and out-smart wildlife to explore lush coral reefs, volcanoes, cave systems, and more - all while trying to survive.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/264710/header.jpg?t=1777456112",
+      "url": "https://store.steampowered.com/app/264710/",
+      "genres": [
+        "horror",
+        "adventure",
+        "indie"
+      ],
+      "primaryGenre": "horror",
+      "modes": [
+        "solo"
+      ],
+      "platforms": [
+        "windows",
+        "mac"
+      ],
+      "free": false,
+      "price": "1800 руб.",
+      "priceMinor": 180000,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 334527,
+        "negative": 9798
+      }
+    },
+    {
+      "id": 311690,
+      "title": "Enter the Gungeon",
+      "description": "Enter the Gungeon - игра жанра “пулевая завеса в подземелье”, в которой ищущие спасения неудачники стреляют, грабят, перекатываются и опрокидывают столы, чтобы добраться до легендарного сокровища Оружелья: оружия, которое может убить прошлое.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311690/471d245bd8a37011c16852694342e5ad2d8a4667/header.jpg?t=1779733990",
+      "url": "https://store.steampowered.com/app/311690/",
+      "genres": [
+        "action",
+        "adventure",
+        "indie"
+      ],
+      "primaryGenre": "action",
+      "modes": [
+        "solo",
+        "multi"
+      ],
+      "platforms": [
+        "windows",
+        "linux"
+      ],
+      "free": false,
+      "price": "550 руб.",
+      "priceMinor": 55000,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 75847,
+        "negative": 3864
+      }
+    },
+    {
+      "id": 250900,
+      "title": "The Binding of Isaac: Rebirth",
+      "description": "The Binding of Isaac: Rebirth is a randomly generated action RPG shooter with heavy Rogue-like elements. Following Isaac on his journey players will find bizarre treasures that change Isaac’s form giving him super human abilities and enabling him to fight off droves of mysterious creatures, discover secrets and fight his way to safety.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250900/header.jpg?t=1731977365",
+      "url": "https://store.steampowered.com/app/250900/",
+      "genres": [
+        "action"
+      ],
+      "primaryGenre": "action",
+      "modes": [
+        "solo",
+        "multi"
+      ],
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "free": false,
+      "price": "359 руб.",
+      "priceMinor": 35900,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 413099,
+        "negative": 13778
+      }
+    },
+    {
+      "id": 312520,
+      "title": "Rain World",
+      "description": "Вы кочевой слизнекот. Вы и хищник, и жертва в своей поломанной экосистеме. Хватайте копьё и отправляйтесь покорять индустриальные руины — ведь без охоты нет еды. И держите ухо востро: существа крупнее вас придерживаются того же плана, а слизнекоты выглядят очень вкусно.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/312520/dc5bd100e86dbdb088e7ff17cdb601e7eb2e00bc/header.jpg?t=1793911550",
+      "url": "https://store.steampowered.com/app/312520/",
+      "genres": [
+        "action",
+        "adventure",
+        "indie"
+      ],
+      "primaryGenre": "action",
+      "modes": [
+        "solo",
+        "multi"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "free": false,
+      "price": "880 руб.",
+      "priceMinor": 88000,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 45239,
+        "negative": 2852
+      }
+    },
+    {
+      "id": 588650,
+      "title": "Dead Cells",
+      "description": "Dead Cells — это экшен-платформер и метроидвания с элементами рогалика. Вас ждет огромный, постоянно меняющийся замок... Если, конечно, вы сможете победить его стражей. Никаких сохранений. Убивайте, умирайте, учитесь и пробуйте снова.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588650/header.jpg?t=1779086887",
+      "url": "https://store.steampowered.com/app/588650/",
+      "genres": [
+        "action",
+        "adventure",
+        "indie"
+      ],
+      "primaryGenre": "action",
+      "modes": [
+        "solo"
+      ],
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "free": false,
+      "price": "499 руб.",
+      "priceMinor": 49900,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 152906,
+        "negative": 4730
+      }
+    },
+    {
+      "id": 698780,
+      "title": "Doki Doki Literature Club!",
+      "description": "The Literature Club is full of cute girls! Will you write the way into their heart? This game is not suitable for children or those who are easily disturbed.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/698780/header.jpg?t=1681943582",
+      "url": "https://store.steampowered.com/app/698780/",
+      "genres": [
+        "casual",
+        "indie"
+      ],
+      "primaryGenre": "casual",
+      "modes": [
+        "solo"
+      ],
+      "platforms": [
+        "windows",
+        "mac"
+      ],
+      "free": true,
+      "price": null,
+      "priceMinor": 0,
+      "reviews": {
+        "positive": 222522,
+        "negative": 8091
+      }
+    },
+    {
+      "id": 1274570,
+      "title": "DEVOUR",
+      "description": "DEVOUR - кооперативная хоррор-игра на выживание для 1-4 игроков. Остановите одержимых культистов, пока они не затащили вас в ад. Беги. Кричи. Прячся. Только не попадитесь.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274570/bb90f9fa36e4c35a5f28cdc38cf75b3eb5c39032/header.jpg?t=1765533474",
+      "url": "https://store.steampowered.com/app/1274570/",
+      "genres": [
+        "horror",
+        "indie"
+      ],
+      "primaryGenre": "horror",
+      "modes": [
+        "solo",
+        "multi",
+        "coop"
+      ],
+      "platforms": [
+        "windows",
+        "mac"
+      ],
+      "free": false,
+      "price": "385 руб.",
+      "priceMinor": 38500,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 62721,
+        "negative": 6336
+      }
+    },
+    {
+      "id": 1794680,
+      "title": "Vampire Survivors",
+      "description": "Пачками косить порождений ночи и дожить до рассвета! Vampire Survivors — казуальная игра в стиле готического хоррора с элементами упрощенного рогалика. Здесь каждое ваше решение может вызвать лавину последствий для орд монстров, с которыми вам предстоит столкнуться.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/2ca07b690dde645771125ed9d9206c4c5fde4dd4/header.jpg?t=1794307910",
+      "url": "https://store.steampowered.com/app/1794680/",
+      "genres": [
+        "action",
+        "casual",
+        "indie",
+        "rpg"
+      ],
+      "primaryGenre": "action",
+      "modes": [
+        "solo",
+        "multi",
+        "coop"
+      ],
+      "platforms": [
+        "windows",
+        "mac"
+      ],
+      "free": false,
+      "price": "200 руб.",
+      "priceMinor": 20000,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 248800,
+        "negative": 4172
+      }
+    },
+    {
+      "id": 1623730,
+      "title": "Palworld",
+      "description": "Собирайте удивительных существ — Палов — на просторах огромного мира, отправляйте их сражаться и трудиться на фабриках, стройте с их помощью здания и выращивайте плантации в этом абсолютно новом симуляторе выживания в открытом мире, поддерживающем совместный режим.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/6912f19c43a95ff5fe514eedd35e68bf12335459/header.jpg?t=1794456666",
+      "url": "https://store.steampowered.com/app/1623730/",
+      "genres": [
+        "action",
+        "adventure",
+        "indie",
+        "rpg"
+      ],
+      "primaryGenre": "action",
+      "modes": [
+        "solo",
+        "multi",
+        "coop"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "free": false,
+      "price": "1100 руб.",
+      "priceMinor": 110000,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 395273,
+        "negative": 22595
+      }
+    },
+    {
+      "id": 1966720,
+      "title": "Lethal Company",
+      "description": "A co-op horror about scavenging at abandoned moons to sell scrap to the Company.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/header.jpg?t=1775380053",
+      "url": "https://store.steampowered.com/app/1966720/",
+      "genres": [
+        "horror",
+        "action",
+        "adventure",
+        "indie"
+      ],
+      "primaryGenre": "horror",
+      "modes": [
+        "solo",
+        "multi",
+        "coop"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "free": false,
+      "price": "385 руб.",
+      "priceMinor": 38500,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 399891,
+        "negative": 12398
+      }
+    },
+    {
+      "id": 553420,
+      "title": "TUNIC",
+      "description": "Исследуй земли, полные легенд, древних сил и яростных монстров. В изометрическом экшене TUNIC тебе предстоит большое путешествие в роли маленького лисенка.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553420/header.jpg?t=1783359656",
+      "url": "https://store.steampowered.com/app/553420/",
+      "genres": [
+        "action",
+        "adventure",
+        "rpg"
+      ],
+      "primaryGenre": "action",
+      "modes": [
+        "solo"
+      ],
+      "platforms": [
+        "windows",
+        "mac"
+      ],
+      "free": false,
+      "price": "1100 руб.",
+      "priceMinor": 110000,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 15532,
+        "negative": 1519
+      }
+    },
+    {
+      "id": 753640,
+      "title": "Outer Wilds",
+      "description": "Outer Wilds — высоко оценённая критиками, завоевавшая множество наград приключенческая игра с открытым миром, посвящённая загадкам солнечной системы во временной петле и получившая в 2019 году звание «Игры года» от Giant Bomb, Polygon, Eurogamer и The Guardian.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753640/079ae4a7ff4b5875adc5c63c4c0b84e5a3e6966b/header.jpg?t=1785424341",
+      "url": "https://store.steampowered.com/app/753640/",
+      "genres": [
+        "action",
+        "adventure"
+      ],
+      "primaryGenre": "action",
+      "modes": [
+        "solo"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "free": false,
+      "price": "1050 руб.",
+      "priceMinor": 105000,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 87361,
+        "negative": 4119
+      }
+    },
+    {
+      "id": 391540,
+      "title": "Undertale",
+      "description": "UNDERTALE! The RPG game where you don't have to destroy anyone.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391540/header.jpg?t=1757349115",
+      "url": "https://store.steampowered.com/app/391540/",
+      "genres": [
+        "indie",
+        "rpg"
+      ],
+      "primaryGenre": "rpg",
+      "modes": [
+        "solo"
+      ],
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "free": false,
+      "price": "249 руб.",
+      "priceMinor": 24900,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 303228,
+        "negative": 10657
+      }
+    },
+    {
+      "id": 1030300,
+      "title": "Hollow Knight: Silksong",
+      "description": "Исследуйте огромное проклятое царство в Hollow Knight: Silksong! Открывайте его тайны, сражайтесь и боритесь за свою жизнь, поднимаясь к вершинам земель, где правят шёлк и песня.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030300/7983574d464e6559ac7e24275727f73a8bcca1f3/header.jpg?t=1776125736",
+      "url": "https://store.steampowered.com/app/1030300/",
+      "genres": [
+        "action",
+        "adventure",
+        "indie"
+      ],
+      "primaryGenre": "action",
+      "modes": [
+        "solo"
+      ],
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "free": false,
+      "price": "710 руб.",
+      "priceMinor": 71000,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 349953,
+        "negative": 41475
+      }
+    },
+    {
+      "id": 440,
+      "title": "Team Fortress 2",
+      "description": "Девять классов с уникальными характерами откроют вам доступ ко множеству разнообразных тактик и навыков. Игра беспрестанно пополняется новыми режимами, картами, предметами и, самое главное, шляпами!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440/header.jpg?t=1757348372",
+      "url": "https://store.steampowered.com/app/440/",
+      "genres": [
+        "action"
+      ],
+      "primaryGenre": "action",
+      "modes": [
+        "multi"
+      ],
+      "platforms": [
+        "windows",
+        "linux"
+      ],
+      "free": true,
+      "price": null,
+      "priceMinor": 0,
+      "reviews": {
+        "positive": 1145597,
+        "negative": 112434
+      }
+    },
+    {
+      "id": 570,
+      "title": "Dota 2",
+      "description": "Ежедневно миллионы игроков по всему миру сражаются от лица одного из более сотни героев Dota 2, и даже после тысячи часов в ней есть чему научиться. Благодаря регулярным обновлениям игра живёт своей жизнью: геймплей, возможности и герои постоянно преображаются.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/header.jpg?t=1791407503",
+      "url": "https://store.steampowered.com/app/570/",
+      "genres": [
+        "action",
+        "strategy"
+      ],
+      "primaryGenre": "action",
+      "modes": [
+        "multi",
+        "coop"
+      ],
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "free": true,
+      "price": null,
+      "priceMinor": 0,
+      "reviews": {
+        "positive": 2264164,
+        "negative": 554525
+      }
+    },
+    {
+      "id": 730,
+      "title": "Counter-Strike 2",
+      "description": "Более двух десятилетий Counter-Strike служит примером первоклассной соревновательной игры, путь развития которой определяют миллионы игроков со всего мира. Теперь пришло время нового этапа — Counter-Strike 2.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/162664aa5da85f418105350c5d67ca565f6c3713/header.jpg?t=1793054556",
+      "url": "https://store.steampowered.com/app/730/",
+      "genres": [
+        "action"
+      ],
+      "primaryGenre": "action",
+      "modes": [
+        "multi"
+      ],
+      "platforms": [
+        "windows",
+        "linux"
+      ],
+      "free": true,
+      "price": null,
+      "priceMinor": 0,
+      "reviews": {
+        "positive": 8568181,
+        "negative": 1424559
+      }
+    },
+    {
+      "id": 238960,
+      "title": "Path of Exile",
+      "description": "Вы - изгнанник, который пытается выжить в мрачном мире Рэкласта. Сражаясь за свою жизнь, вы накопите силу, которая поможет вам отомстить тем, кто обрёк вас на эту участь. Path of Exile - это онлайн Action RPG в тёмном фэнтэзийном мире. Игра полностью бесплатна и не имеет Pay-to-Win элементов.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238960/19a8acaddb5659ef3c1c91e5d6beb89abf10718d/header.jpg?t=1794430224",
+      "url": "https://store.steampowered.com/app/238960/",
+      "genres": [
+        "action",
+        "adventure",
+        "indie",
+        "rpg"
+      ],
+      "primaryGenre": "action",
+      "modes": [
+        "solo",
+        "multi",
+        "coop"
+      ],
+      "platforms": [
+        "windows",
+        "mac"
+      ],
+      "free": true,
+      "price": null,
+      "priceMinor": 0,
+      "reviews": {
+        "positive": 223447,
+        "negative": 27504
+      }
+    },
+    {
+      "id": 230410,
+      "title": "Warframe",
+      "description": "Пробудитесь в роли неудержимого воина и сражайтесь вместе с друзьями в этой сюжетной бесплатной онлайн-игре. Столкнитесь с враждующими фракциями в обширной межпланетной системе, следуя указаниям загадочной Лотос, повышайте уровень своего Варфрейма, создайте арсенал разрушительной огневой мощи, и откройте свой истинный потенциал в...",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/1a3e7c2a05ce4e5cad5ac4c7e858cf5b0934704e/header.jpg?t=1794847104",
+      "url": "https://store.steampowered.com/app/230410/",
+      "genres": [
+        "action",
+        "rpg"
+      ],
+      "primaryGenre": "action",
+      "modes": [
+        "solo",
+        "multi",
+        "coop"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "free": true,
+      "price": null,
+      "priceMinor": 0,
+      "reviews": {
+        "positive": 599925,
+        "negative": 83266
+      }
+    },
+    {
+      "id": 236390,
+      "title": "War Thunder",
+      "description": "War Thunder – самая масштабная бесплатная кроссплатформенная многопользовательская онлайн-игра, посвященная боевой технике самых разных войн и конфликтов – с начала XX века и до наших дней. Авиация, наземные силы и флот сражаются вместе в одном бою.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/09150b32d79fc827c2d24bc7ee200748a3c1e43e/header.jpg?t=1794405808",
+      "url": "https://store.steampowered.com/app/236390/",
+      "genres": [
+        "action",
+        "simulation"
+      ],
+      "primaryGenre": "action",
+      "modes": [
+        "solo",
+        "multi",
+        "coop"
+      ],
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "free": true,
+      "price": null,
+      "priceMinor": 0,
+      "reviews": {
+        "positive": 570017,
+        "negative": 230940
+      }
+    },
+    {
+      "id": 1085660,
+      "title": "Destiny 2",
+      "description": "Исследуйте тайны Солнечной системы и наслаждайтесь динамичным шутером от первого лица в Destiny 2. Разблокируйте мощные способности и собирайте уникальное снаряжение, выполняя сюжетные задания в совместных и состязательных режимах.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/0ccf0dc0a8c4ec078db7ab99ddc820b2fa884441/header.jpg?t=1781815889",
+      "url": "https://store.steampowered.com/app/1085660/",
+      "genres": [
+        "action",
+        "adventure"
+      ],
+      "primaryGenre": "action",
+      "modes": [
+        "solo",
+        "multi",
+        "coop"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "free": true,
+      "price": null,
+      "priceMinor": 0,
+      "reviews": {
+        "positive": 523336,
+        "negative": 141385
+      }
+    },
+    {
+      "id": 291550,
+      "title": "Brawlhalla",
+      "description": "An epic platform fighter for up to 8 players online or local. Try casual free-for-alls, ranked matches, or invite friends to a private room. And it's free! Play cross-platform with millions of players on PlayStation, Xbox, Nintendo Switch, iOS, Android & Steam! Frequent updates. Over sixty Legends.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/291550/9b8872bfc11df391e8eb3c1194a38a7bee4529e9/header_alt_assets_13.jpg?t=1795011072",
+      "url": "https://store.steampowered.com/app/291550/",
+      "genres": [
+        "action",
+        "indie"
+      ],
+      "primaryGenre": "action",
+      "modes": [
+        "solo",
+        "multi",
+        "coop"
+      ],
+      "platforms": [
+        "windows",
+        "mac"
+      ],
+      "free": true,
+      "price": null,
+      "priceMinor": 0,
+      "reviews": {
+        "positive": 330299,
+        "negative": 85468
+      }
+    },
+    {
+      "id": 438100,
+      "title": "VRChat",
+      "description": "Join our growing community as you explore, play, and help craft the future of social VR. Create worlds and custom avatars. Welcome to VRChat.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438100/header.jpg?t=1762366454",
+      "url": "https://store.steampowered.com/app/438100/",
+      "genres": [
+        "adventure",
+        "casual",
+        "simulation",
+        "sports"
+      ],
+      "primaryGenre": "adventure",
+      "modes": [
+        "multi",
+        "coop"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "free": true,
+      "price": null,
+      "priceMinor": 0,
+      "reviews": {
+        "positive": 202425,
+        "negative": 73341
+      }
+    },
+    {
+      "id": 252490,
+      "title": "Rust",
+      "description": "Единственная цель в Rust — выживание. Дикая природа острова, его обитатели, окружение, другие выжившие — всё вокруг хочет твоей смерти. Делай всё, что в твоих силах, чтобы пережить ещё одну ночь.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg?t=1781536981",
+      "url": "https://store.steampowered.com/app/252490/",
+      "genres": [
+        "action",
+        "adventure",
+        "indie",
+        "rpg"
+      ],
+      "primaryGenre": "action",
+      "modes": [
+        "multi",
+        "coop"
+      ],
+      "platforms": [
+        "windows",
+        "mac"
+      ],
+      "free": false,
+      "price": "1699 руб.",
+      "priceMinor": 169900,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 1027824,
+        "negative": 153834
+      }
+    },
+    {
+      "id": 346110,
+      "title": "ARK: Survival Evolved",
+      "description": "Будучи выброшенным голым на берег таинственного острова, голодая и замерзая, вам придется заниматься ремеслом, охотой и строительством, чтобы выжить. Используйте опыт и ловкость, чтобы приручать, разводить и ездить на первобытных существах, живущих в ARK.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/346110/header.jpg?t=1793226330",
+      "url": "https://store.steampowered.com/app/346110/",
+      "genres": [
+        "action",
+        "adventure",
+        "indie",
+        "rpg"
+      ],
+      "primaryGenre": "action",
+      "modes": [
+        "solo",
+        "multi",
+        "coop"
+      ],
+      "platforms": [
+        "windows",
+        "mac"
+      ],
+      "free": false,
+      "price": "550 руб.",
+      "priceMinor": 55000,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 494756,
+        "negative": 94886
+      }
+    },
+    {
+      "id": 892970,
+      "title": "Valheim",
+      "description": "Симулятор выживания и исследования для компании от 1 до 10 человек. Вас ждет процедурно генерируемый мир, пропитанный духом скандинавских мифов. Сражайтесь, стройте крепости и докажите, что достойны покровительства Одина!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/df65cafab20dae97a243c7cc988e8bf959e4b906/header.jpg?t=1791544831",
+      "url": "https://store.steampowered.com/app/892970/",
+      "genres": [
+        "action",
+        "adventure",
+        "indie",
+        "rpg"
+      ],
+      "primaryGenre": "action",
+      "modes": [
+        "solo",
+        "multi",
+        "coop"
+      ],
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "free": false,
+      "price": "1299 руб.",
+      "priceMinor": 129900,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 447063,
+        "negative": 30673
+      }
+    },
+    {
+      "id": 221100,
+      "title": "DayZ",
+      "description": "Как долго вы сможете выжить в пост-апокалипсисе? Мир пал под натиском зараженных. Боритесь против других выживших за ограниченные ресурсы. Сможете ли вы работать сообща с незнакомцами? Или же станете волком-одиночкой? Это ваша история, это DayZ.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/header.jpg?t=1792059745",
+      "url": "https://store.steampowered.com/app/221100/",
+      "genres": [
+        "action",
+        "adventure"
+      ],
+      "primaryGenre": "action",
+      "modes": [
+        "multi",
+        "coop"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "free": false,
+      "price": "2790 руб.",
+      "priceMinor": 279000,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 307056,
+        "negative": 84137
+      }
+    },
+    {
+      "id": 244850,
+      "title": "Space Engineers",
+      "description": "Space Engineers — это космический sandbox, где ты строишь корабли, станции и базы, всё разрушается и перестраивается. Исследуй миры, добывай ресурсы, выживай и сражайся — сам или с друзьями, в Creative или Survival.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244850/315370aa8bd35ad8dcf37987df5eccf2a4a975e2/header.jpg?t=1794852618",
+      "url": "https://store.steampowered.com/app/244850/",
+      "genres": [
+        "action",
+        "indie",
+        "simulation",
+        "strategy"
+      ],
+      "primaryGenre": "action",
+      "modes": [
+        "solo",
+        "multi",
+        "coop"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "free": false,
+      "price": "800 руб.",
+      "priceMinor": 80000,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 90360,
+        "negative": 10460
+      }
+    },
+    {
+      "id": 281990,
+      "title": "Stellaris",
+      "description": "Исследуйте полную чудес галактику в научно-фантастической глобальной стратегии от Paradox Development Studios. Знакомьтесь с инопланетянами разных рас, открывайте новые планеты, справляйтесь с неожиданными испытаниями и расширяйте границы своей империи. Ваши возможности практически безграничны.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/header.jpg?t=1794419057",
+      "url": "https://store.steampowered.com/app/281990/",
+      "genres": [
+        "simulation",
+        "strategy"
+      ],
+      "primaryGenre": "simulation",
+      "modes": [
+        "solo",
+        "multi"
+      ],
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "free": false,
+      "price": "3049 руб.",
+      "priceMinor": 304900,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 119894,
+        "negative": 20047
+      }
+    },
+    {
+      "id": 255710,
+      "title": "Cities: Skylines",
+      "description": "Cities: Skylines предлагает по-новому взглянуть на классический жанр градостроительного симулятора. Эта игра как нельзя лучше передает возникающие перед градоначальником трудности и позволяет создать настоящий мегаполис, одновременно привнося в игру приятные новшества.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/header.jpg?t=1794508006",
+      "url": "https://store.steampowered.com/app/255710/",
+      "genres": [
+        "simulation",
+        "strategy"
+      ],
+      "primaryGenre": "simulation",
+      "modes": [
+        "solo"
+      ],
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "free": false,
+      "price": "1759 руб.",
+      "priceMinor": 175900,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 204289,
+        "negative": 15942
+      }
+    },
+    {
+      "id": 392110,
+      "title": "ENDLESS Space™ 2",
+      "description": "Endless Space 2 - это пошаговая военно-политическая sci-fi стратегия, в которой вам выпадет уникальная возможность стать правителем целой цивилизации и повести ее к холодным глубинам космоса. Ваши амбиции - залог ее будущего.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/392110/header.jpg?t=1789465620",
+      "url": "https://store.steampowered.com/app/392110/",
+      "genres": [
+        "strategy"
+      ],
+      "primaryGenre": "strategy",
+      "modes": [
+        "solo",
+        "multi"
+      ],
+      "platforms": [
+        "windows",
+        "mac"
+      ],
+      "free": false,
+      "price": "1580 руб.",
+      "priceMinor": 158000,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 14557,
+        "negative": 2787
+      }
+    },
+    {
+      "id": 960090,
+      "title": "Bloons TD 6",
+      "description": "Игра-боевик в стиле «оборона крепости»",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/960090/header.jpg?t=1782123772",
+      "url": "https://store.steampowered.com/app/960090/",
+      "genres": [
+        "strategy"
+      ],
+      "primaryGenre": "strategy",
+      "modes": [
+        "solo",
+        "multi",
+        "coop"
+      ],
+      "platforms": [
+        "windows",
+        "mac"
+      ],
+      "free": false,
+      "price": "309 руб.",
+      "priceMinor": 30900,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 343223,
+        "negative": 9779
+      }
+    },
+    {
+      "id": 244210,
+      "title": "Assetto Corsa",
+      "description": "Assetto Corsa v1.16 introduces the new \"Laguna Seca\" laser-scanned track, 7 new cars among which the eagerly awaited Alfa Romeo Giulia Quadrifoglio! Check the changelog for further info!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244210/header.jpg?t=1793288663",
+      "url": "https://store.steampowered.com/app/244210/",
+      "genres": [
+        "indie",
+        "racing",
+        "simulation",
+        "sports"
+      ],
+      "primaryGenre": "racing",
+      "modes": [
+        "solo",
+        "multi"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "free": false,
+      "price": "177 руб.",
+      "priceMinor": 17700,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 127678,
+        "negative": 10062
+      }
+    },
+    {
+      "id": 400,
+      "title": "Portal",
+      "description": "Portal™ — новая игра от Valve для одного игрока. Portal, действие которого происходит в загадочных лабораториях компании Aperture, был назван одной из самых новаторских игр современности и предлагает вниманию игрока множество часов непохожей ни на что головоломки.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/header.jpg?t=1745368554",
+      "url": "https://store.steampowered.com/app/400/",
+      "genres": [
+        "action"
+      ],
+      "primaryGenre": "action",
+      "modes": [
+        "solo"
+      ],
+      "platforms": [
+        "windows",
+        "linux"
+      ],
+      "free": false,
+      "price": "445 руб.",
+      "priceMinor": 44500,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 173038,
+        "negative": 2558
+      }
+    },
+    {
+      "id": 286160,
+      "title": "Tabletop Simulator",
+      "description": "Tabletop Simulator is the only simulator where you can let your aggression out by flipping the table! There are no rules to follow: just you, a physics sandbox, and your friends. Make your own online board games or play the thousands of community created mods. Unlimited gaming possibilities!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/286160/header.jpg?t=1772387518",
+      "url": "https://store.steampowered.com/app/286160/",
+      "genres": [
+        "casual",
+        "indie",
+        "rpg",
+        "simulation",
+        "strategy"
+      ],
+      "primaryGenre": "casual",
+      "modes": [
+        "solo",
+        "multi",
+        "coop"
+      ],
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "free": false,
+      "price": "710 руб.",
+      "priceMinor": 71000,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 45329,
+        "negative": 1932
+      }
+    },
+    {
+      "id": 108600,
+      "title": "Project Zomboid",
+      "description": "Project Zomboid is the ultimate in zombie survival. Alone or in MP: you loot, build, craft, fight, farm and fish in a struggle to survive. A hardcore RPG skillset, a vast map, massively customisable sandbox and a cute tutorial raccoon await the unwary. So how will you die? All it takes is a bite..",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/header.jpg?t=1794338497",
+      "url": "https://store.steampowered.com/app/108600/",
+      "genres": [
+        "indie",
+        "rpg",
+        "simulation"
+      ],
+      "primaryGenre": "rpg",
+      "modes": [
+        "solo",
+        "multi",
+        "coop"
+      ],
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "free": false,
+      "price": "1050 руб.",
+      "priceMinor": 105000,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 352949,
+        "negative": 21621
+      }
+    },
+    {
+      "id": 881100,
+      "title": "Noita",
+      "description": "Noita — боевик с элементами «roguelike» с физическим моделированием пикселей. Вы сражаетесь, исследуете различные места, расплавляете, сжигаете, замораживаете и испаряете препятствия, используя заклинания. Можно просто исследовать всё вокруг и смотреть, сколько проблем удастся нажить!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881100/header.jpg?t=1675987871",
+      "url": "https://store.steampowered.com/app/881100/",
+      "genres": [
+        "action",
+        "adventure",
+        "indie",
+        "rpg",
+        "simulation"
+      ],
+      "primaryGenre": "action",
+      "modes": [
+        "solo"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "free": false,
+      "price": "435 руб.",
+      "priceMinor": 43500,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 78113,
+        "negative": 3982
+      }
+    },
+    {
+      "id": 1147560,
+      "title": "Skul: The Hero Slayer",
+      "description": "Помогите скелету Скалу в одиночку расправиться с императорской армией и спасти своего короля из плена в игре на все времена — остросюжетном 2D-платформере в жанре rogue-lite.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1147560/header.jpg?t=1774420210",
+      "url": "https://store.steampowered.com/app/1147560/",
+      "genres": [
+        "action",
+        "indie"
+      ],
+      "primaryGenre": "action",
+      "modes": [
+        "solo"
+      ],
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "free": false,
+      "price": "460 руб.",
+      "priceMinor": 46000,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 47587,
+        "negative": 3375
+      }
+    },
+    {
+      "id": 1604030,
+      "title": "V Rising",
+      "description": "Восстань из теней, вампир! Охота начинается.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/be49834ab147ad22ba17005fb847c93917d18b97/header.jpg?t=1793181016",
+      "url": "https://store.steampowered.com/app/1604030/",
+      "genres": [
+        "action",
+        "adventure"
+      ],
+      "primaryGenre": "action",
+      "modes": [
+        "solo",
+        "multi",
+        "coop"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "free": false,
+      "price": "1200 руб.",
+      "priceMinor": 120000,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 99256,
+        "negative": 11837
+      }
+    },
+    {
+      "id": 268910,
+      "title": "Cuphead",
+      "description": "Cuphead – это в прямом смысле слова \"классический\" платформер. Классический, потому что все в нем выдержано в духе 1930-х: от графики, кажется, вышедшей из-под пера самого Уолта Диснея, до акварельных фонов и джазового музыкального сопровождения.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268910/header.jpg?t=1709068852",
+      "url": "https://store.steampowered.com/app/268910/",
+      "genres": [
+        "action",
+        "indie"
+      ],
+      "primaryGenre": "action",
+      "modes": [
+        "solo",
+        "multi",
+        "coop"
+      ],
+      "platforms": [
+        "windows",
+        "mac"
+      ],
+      "free": false,
+      "price": "419 руб.",
+      "priceMinor": 41900,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 193764,
+        "negative": 7513
+      }
+    },
+    {
+      "id": 780290,
+      "title": "Gloomhaven",
+      "description": "Lead your band of mercenaries in the land of Gloomhaven, work with unsavoury individuals, shape the fate of the region, fight your way through horrific places and get rich or die trying in this ruthless Tactical-RPG.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/780290/header.jpg?t=1788792171",
+      "url": "https://store.steampowered.com/app/780290/",
+      "genres": [
+        "adventure",
+        "rpg",
+        "strategy"
+      ],
+      "primaryGenre": "adventure",
+      "modes": [
+        "solo",
+        "multi",
+        "coop"
+      ],
+      "platforms": [
+        "windows",
+        "mac"
+      ],
+      "free": false,
+      "price": "1100 руб.",
+      "priceMinor": 110000,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 11290,
+        "negative": 2426
+      }
+    },
+    {
+      "id": 3241660,
+      "title": "R.E.P.O.",
+      "description": "An online co-op horror game with up to 6 players. Locate valuable, fully physics-based objects and handle them with care as you retrieve and extract to satisfy your creator's desires.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/62177765c05399116f0453fe1177b00ceed698c4/header_alt_assets_3.jpg?t=1793278962",
+      "url": "https://store.steampowered.com/app/3241660/",
+      "genres": [
+        "horror",
+        "action"
+      ],
+      "primaryGenre": "horror",
+      "modes": [
+        "solo",
+        "multi",
+        "coop"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "free": false,
+      "price": "424 руб.",
+      "priceMinor": 42400,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 337134,
+        "negative": 13853
+      }
+    },
+    {
+      "id": 2379780,
+      "title": "Balatro",
+      "description": "Покерная игра-«рогалик». Balatro — гипнотически увлекательная игра с построением колод, где можно использовать нестандартные покерные комбинации, находить джокеров в решающие моменты и запускать забойные, возмутительно мощные комбо.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/7a85430784e4d613cdb0547414d8cf16ffa45747/header.jpg?t=1790693638",
+      "url": "https://store.steampowered.com/app/2379780/",
+      "genres": [
+        "casual",
+        "indie",
+        "strategy"
+      ],
+      "primaryGenre": "casual",
+      "modes": [
+        "solo"
+      ],
+      "platforms": [
+        "windows",
+        "mac"
+      ],
+      "free": false,
+      "price": "610 руб.",
+      "priceMinor": 61000,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 159611,
+        "negative": 3549
+      }
+    },
+    {
+      "id": 1948280,
+      "title": "Stacklands",
+      "description": "Stacklands is a village builder where you stack cards to collect food, build structures, and fight creatures. 🃏 For example, dragging a Villager card on top of a Berry Bush card will spawn Berry cards which the villagers can eat to survive. 🃏 Play your cards right and expand your village!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1948280/header.jpg?t=1769357052",
+      "url": "https://store.steampowered.com/app/1948280/",
+      "genres": [
+        "casual",
+        "indie",
+        "simulation"
+      ],
+      "primaryGenre": "casual",
+      "modes": [
+        "solo"
+      ],
+      "platforms": [
+        "windows",
+        "mac"
+      ],
+      "free": false,
+      "price": "315 руб.",
+      "priceMinor": 31500,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 28309,
+        "negative": 1176
+      }
+    },
+    {
+      "id": 2420660,
+      "title": "Neva",
+      "description": "Это трогательная история о девушке и её дружбе с величественным волком. Вместе они совершают захватывающее путешествие по стремительно угасающему миру.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420660/header.jpg?t=1771587898",
+      "url": "https://store.steampowered.com/app/2420660/",
+      "genres": [
+        "action",
+        "adventure",
+        "indie"
+      ],
+      "primaryGenre": "action",
+      "modes": [
+        "solo"
+      ],
+      "platforms": [
+        "windows",
+        "mac"
+      ],
+      "free": false,
+      "price": "710 руб.",
+      "priceMinor": 71000,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 8976,
+        "negative": 653
+      }
+    },
+    {
+      "id": 1497440,
+      "title": "COCOON",
+      "description": "COCOON – новая игра от Йеппе Карлсена, ведущего гейм-дизайнера LIMBO и INSIDE. Это путешествие по мирам внутри других миров. Овладейте механикой прыжков по мирам, решайте изящные головоломки и разгадайте космическую тайну.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1497440/header.jpg?t=1763721043",
+      "url": "https://store.steampowered.com/app/1497440/",
+      "genres": [
+        "adventure",
+        "indie"
+      ],
+      "primaryGenre": "adventure",
+      "modes": [
+        "solo"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "free": false,
+      "price": "1050 руб.",
+      "priceMinor": 105000,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 7699,
+        "negative": 439
+      }
+    },
+    {
+      "id": 1511460,
+      "title": "InfraSpace",
+      "description": "InfraSpace - это научно-фантастический градостроительный симулятор, где каждый производимый ресурс должен проходить через транспортную инфраструктуру. Начните добычу ресурсов, управляйте производством и убедитесь, что дорожная сеть соответствует задаче.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1511460/header.jpg?t=1773847551",
+      "url": "https://store.steampowered.com/app/1511460/",
+      "genres": [
+        "indie",
+        "simulation",
+        "strategy"
+      ],
+      "primaryGenre": "simulation",
+      "modes": [
+        "solo"
+      ],
+      "platforms": [
+        "windows",
+        "mac"
+      ],
+      "free": false,
+      "price": "465 руб.",
+      "priceMinor": 46500,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 1368,
+        "negative": 294
+      }
+    },
+    {
+      "id": 1817800,
+      "title": "Oddsparks: An Automation Adventure",
+      "description": "Oddsparks – это стратегия в режиме реального времени с элементами автоматизации, которая подойдет как знатокам, так и новичкам жанра. Исследуйте удивительный волшебный мир, разгадывайте тайны прошлого, стройте мастерские и ищите приключения во главе банды смешных и милых спарков (sparks)!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817800/c505cd263cf0cb85f1e69fac24de81b196141212/header.jpg?t=1791461895",
+      "url": "https://store.steampowered.com/app/1817800/",
+      "genres": [
+        "adventure",
+        "indie",
+        "simulation",
+        "strategy"
+      ],
+      "primaryGenre": "adventure",
+      "modes": [
+        "solo",
+        "multi",
+        "coop"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "free": false,
+      "price": "1600 руб.",
+      "priceMinor": 160000,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 1553,
+        "negative": 335
+      }
+    },
+    {
+      "id": 2103140,
+      "title": "магическое ремесло Magicraft",
+      "description": "«Magicraft» — это roguelike-игра с бесконечными возможностями комбинирования заклинаний. Создавайте эффекты, о которых не подозревали даже разработчики.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2103140/c67d87d288165604423bcac5f3857d555f9dabd9/header.jpg?t=1790072393",
+      "url": "https://store.steampowered.com/app/2103140/",
+      "genres": [
+        "action",
+        "adventure",
+        "indie",
+        "rpg"
+      ],
+      "primaryGenre": "action",
+      "modes": [
+        "solo"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "free": false,
+      "price": "590 руб.",
+      "priceMinor": 59000,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 14137,
+        "negative": 1130
+      }
+    },
+    {
+      "id": 2368470,
+      "title": "An Arcade Full of Cats",
+      "description": "Путешествуйте сквозь время и пространство истории игр, ища очаровательных кошачьих компаньонов в An Arcade Full of Cats — лучшей игре в жанре \"ищи и находи предметы\".",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2368470/header.jpg?t=1764106707",
+      "url": "https://store.steampowered.com/app/2368470/",
+      "genres": [
+        "casual",
+        "indie"
+      ],
+      "primaryGenre": "casual",
+      "modes": [
+        "solo"
+      ],
+      "platforms": [
+        "windows",
+        "linux"
+      ],
+      "free": true,
+      "price": null,
+      "priceMinor": 0,
+      "reviews": {
+        "positive": 8030,
+        "negative": 139
+      }
+    },
+    {
+      "id": 2201940,
+      "title": "Ship Graveyard Simulator 2",
+      "description": "Смахните пыль с резака и молота – пора возвращаться к работе, у вас новое задание. Отправляйтесь на новое побережье с самым большим кладбищем кораблей в мире, демонтируйте огромные детали кораблей и соберите тонны драгоценной стали. Засучите рукава, пора вернуться в бизнес.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2201940/770d77fb6d857326303cca56531d8c2f52aa3271/header.jpg?t=1790932791",
+      "url": "https://store.steampowered.com/app/2201940/",
+      "genres": [
+        "action",
+        "adventure",
+        "casual",
+        "indie",
+        "simulation"
+      ],
+      "primaryGenre": "action",
+      "modes": [
+        "solo",
+        "multi",
+        "coop"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "free": false,
+      "price": "1499 руб.",
+      "priceMinor": 149900,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 2874,
+        "negative": 831
+      }
+    },
+    {
+      "id": 1266700,
+      "title": "Destroy All Humans! 2 - Reprobed",
+      "description": "Крипто возвращается – с лицензией на зондирование. Злобный пришелец стал еще круче! Погрузитесь в атмосферу 60-х во всей их наркотической красе и отомстите КГБ за взрыв вашего корабля.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1266700/header.jpg?t=1696424271",
+      "url": "https://store.steampowered.com/app/1266700/",
+      "genres": [
+        "action",
+        "adventure"
+      ],
+      "primaryGenre": "action",
+      "modes": [
+        "solo",
+        "multi",
+        "coop"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "free": false,
+      "price": "1999 руб.",
+      "priceMinor": 199900,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 1838,
+        "negative": 472
+      }
+    },
+    {
+      "id": 2012840,
+      "title": "Portal with RTX",
+      "description": "Погрузитесь в признанную критиками и удостоенную наград игру Portal™, обновлённую с помощью трассировки лучей, в этом бесплатном дополнении для обладателей Portal. Думайте порталами — с RTX.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2012840/header.jpg?t=1747634461",
+      "url": "https://store.steampowered.com/app/2012840/",
+      "genres": [
+        "action"
+      ],
+      "primaryGenre": "action",
+      "modes": [
+        "solo"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "free": true,
+      "price": null,
+      "priceMinor": 0,
+      "reviews": {
+        "positive": 11726,
+        "negative": 7558
+      }
+    },
+    {
+      "id": 238320,
+      "title": "Outlast",
+      "description": "Hell is an experiment you can't survive in Outlast, a first-person survival horror game developed by veterans of some of the biggest game franchises in history. As investigative journalist Miles Upshur, explore Mount Massive Asylum and try to survive long enough to discover its terrible secret... if you dare.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238320/header.jpg?t=1666817106",
+      "url": "https://store.steampowered.com/app/238320/",
+      "genres": [
+        "horror",
+        "action",
+        "adventure",
+        "indie"
+      ],
+      "primaryGenre": "horror",
+      "modes": [
+        "solo"
+      ],
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "free": false,
+      "price": "550 руб.",
+      "priceMinor": 55000,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 103721,
+        "negative": 3486
+      }
+    },
+    {
+      "id": 304930,
+      "title": "Unturned",
+      "description": "Unturned is an open-world zombie survival sandbox game. As one of the few not yet turned, you must fight to remain among the living.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304930/161ec2d6ace8a03afdb7a423510ff8f7d8b301ba/header.jpg?t=1783436894",
+      "url": "https://store.steampowered.com/app/304930/",
+      "genres": [
+        "action",
+        "adventure",
+        "casual",
+        "indie"
+      ],
+      "primaryGenre": "action",
+      "modes": [
+        "solo",
+        "multi",
+        "coop"
+      ],
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "free": true,
+      "price": null,
+      "priceMinor": 0,
+      "reviews": {
+        "positive": 514233,
+        "negative": 50856
+      }
+    },
+    {
+      "id": 602960,
+      "title": "Barotrauma",
+      "description": "Barotrauma — многопользовательский космический 2D-симулятор подлодки с элементами survival horror и RPG. Управляйте подлодкой, выполняйте миссии, сражайтесь с монстрами, устраняйте протечки и будьте очень внимательны: опасность в игре подкрадывается незаметно!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/602960/header.jpg?t=1795025064",
+      "url": "https://store.steampowered.com/app/602960/",
+      "genres": [
+        "horror",
+        "action",
+        "indie",
+        "simulation",
+        "strategy"
+      ],
+      "primaryGenre": "horror",
+      "modes": [
+        "solo",
+        "multi",
+        "coop"
+      ],
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "free": false,
+      "price": "1499 руб.",
+      "priceMinor": 149900,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 59208,
+        "negative": 3582
+      }
+    },
+    {
+      "id": 238460,
+      "title": "BattleBlock Theater®",
+      "description": "Играйте в одиночку или с друзьями, чтобы освободить пленников! Прыгайте, решайте головоломки и сражайтесь в загадочном театре, населенном высокотехнологичными кошками, которые постараются доставить вам как можно больше хлопот!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238460/header.jpg?t=1779296698",
+      "url": "https://store.steampowered.com/app/238460/",
+      "genres": [
+        "action",
+        "adventure",
+        "casual",
+        "indie"
+      ],
+      "primaryGenre": "action",
+      "modes": [
+        "solo",
+        "multi",
+        "coop"
+      ],
+      "platforms": [
+        "windows",
+        "mac"
+      ],
+      "free": false,
+      "price": "499 руб.",
+      "priceMinor": 49900,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 54268,
+        "negative": 1621
+      }
+    },
+    {
+      "id": 242760,
+      "title": "The Forest",
+      "description": "As the lone survivor of a passenger jet crash, you find yourself in a mysterious forest battling to stay alive against a society of cannibalistic mutants. Build, explore, survive in this terrifying first person survival horror simulator.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242760/header.jpg?t=1699381053",
+      "url": "https://store.steampowered.com/app/242760/",
+      "genres": [
+        "horror",
+        "action",
+        "adventure",
+        "indie",
+        "simulation"
+      ],
+      "primaryGenre": "horror",
+      "modes": [
+        "solo",
+        "multi",
+        "coop"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "free": false,
+      "price": "435 руб.",
+      "priceMinor": 43500,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 559803,
+        "negative": 25928
+      }
+    },
+    {
+      "id": 240,
+      "title": "Counter-Strike: Source",
+      "description": "Counter-Strike: Source blends Counter-Strike's award-winning teamplay action with the advanced technology of Source™ technology.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/240/header.jpg?t=1745368575",
+      "url": "https://store.steampowered.com/app/240/",
+      "genres": [
+        "action"
+      ],
+      "primaryGenre": "action",
+      "modes": [
+        "multi"
+      ],
+      "platforms": [
+        "windows",
+        "linux"
+      ],
+      "free": false,
+      "price": "445 руб.",
+      "priceMinor": 44500,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 131296,
+        "negative": 4921
+      }
+    },
+    {
+      "id": 550,
+      "title": "Left 4 Dead 2",
+      "description": "Set in the zombie apocalypse, Left 4 Dead 2 is a co-operative action horror FPS takes you and your friends through the cities, swamps and cemeteries of the Deep South, from Savannah to New Orleans across five expansive campaigns.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/header.jpg?t=1772742214",
+      "url": "https://store.steampowered.com/app/550/",
+      "genres": [
+        "action"
+      ],
+      "primaryGenre": "action",
+      "modes": [
+        "solo",
+        "multi",
+        "coop"
+      ],
+      "platforms": [
+        "windows",
+        "linux"
+      ],
+      "free": false,
+      "price": "445 руб.",
+      "priceMinor": 44500,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 806449,
+        "negative": 20024
+      }
+    },
+    {
+      "id": 552500,
+      "title": "Warhammer: Vermintide 2",
+      "description": "Продолжение одобренной критиками игры Vermintide — это революционная экшн-игра, что поражает своей картинкой и выводит на новый уровень кооперативные игры от первого лица. Скорее вступайте в сражение!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552500/header.jpg?t=1764008361",
+      "url": "https://store.steampowered.com/app/552500/",
+      "genres": [
+        "action",
+        "indie",
+        "rpg"
+      ],
+      "primaryGenre": "action",
+      "modes": [
+        "solo",
+        "multi",
+        "coop"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "free": false,
+      "price": "1499 руб.",
+      "priceMinor": 149900,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 77287,
+        "negative": 13933
+      }
+    },
+    {
+      "id": 1313140,
+      "title": "Cult of the Lamb",
+      "description": "Взращивайте собственный культ в землях лжепророков, совершайте походы по таинственным уголкам леса, объединяйте вокруг себя верных последователей и несите своё слово в массы, чтобы сделать свой культ единственным.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1313140/19f32bb477a6e9d058e05193b4e282149bd70644/header.jpg?t=1786554901",
+      "url": "https://store.steampowered.com/app/1313140/",
+      "genres": [
+        "action",
+        "adventure",
+        "indie",
+        "strategy"
+      ],
+      "primaryGenre": "action",
+      "modes": [
+        "solo",
+        "multi",
+        "coop"
+      ],
+      "platforms": [
+        "windows",
+        "mac"
+      ],
+      "free": false,
+      "price": "699 руб.",
+      "priceMinor": 69900,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 108816,
+        "negative": 4772
+      }
+    },
+    {
+      "id": 1172470,
+      "title": "Apex Legends™",
+      "description": "Apex Legends — удостоенный наградами бесплатный геройский шутер от Respawn Entertainment. Освойте все тонкости игры за легендарных персонажей, число которых продолжает расти, и используйте их мощные умения в стратегии своего отряда. Это новое слово в геройских шутерах и «королевских битвах».",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/dc5c390e9a273a7248f75c1b2d59987f6179323c/header_alt_assets_7.jpg?t=1794958367",
+      "url": "https://store.steampowered.com/app/1172470/",
+      "genres": [
+        "action",
+        "adventure"
+      ],
+      "primaryGenre": "action",
+      "modes": [
+        "multi",
+        "coop"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "free": true,
+      "price": null,
+      "priceMinor": 0,
+      "reviews": {
+        "positive": 731205,
+        "negative": 347150
+      }
+    },
+    {
+      "id": 526870,
+      "title": "Satisfactory",
+      "description": "Satisfactory — это игра от первого лица в открытом мире, вы которой вам нужно строить заводы, с упором на исследования и бои. Играйте в одиночестве или с друзьями, исследуйте незнакомую планету, возводите многоэтажные заводы и вступите в конвейерный рай!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/header.jpg?t=1791192059",
+      "url": "https://store.steampowered.com/app/526870/",
+      "genres": [
+        "adventure",
+        "indie",
+        "simulation",
+        "strategy"
+      ],
+      "primaryGenre": "adventure",
+      "modes": [
+        "solo",
+        "multi",
+        "coop"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "free": false,
+      "price": "1300 руб.",
+      "priceMinor": 130000,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 231365,
+        "negative": 6297
+      }
+    },
+    {
+      "id": 1158310,
+      "title": "Crusader Kings III",
+      "description": "Любовь, война, интриги и величие. Определите наследие своего знатного рода в безграничной глобальной стратегии Crusader Kings III. Смерть — это только начало вашего пути по истории выбранной династии в этой полной неожиданностей и славы симуляции Средних веков.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/8c0c09b4da78eda3e2fedf4ed792173596e68841/header_alt_assets_12_russian.jpg?t=1795167672",
+      "url": "https://store.steampowered.com/app/1158310/",
+      "genres": [
+        "rpg",
+        "simulation",
+        "strategy"
+      ],
+      "primaryGenre": "rpg",
+      "modes": [
+        "solo",
+        "multi"
+      ],
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "free": false,
+      "price": "914 руб.",
+      "priceMinor": 91400,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 85297,
+        "negative": 9162
+      }
+    },
+    {
+      "id": 220,
+      "title": "Half-Life 2",
+      "description": "Гордон Фримен вновь пробуждается в оккупированном центре Сити-17 и возглавляет отчаянное сопротивление против Альянса. К нему присоединяется Аликс Вэнс. Сыграйте в этот эпохальный шутер от первого лица с беспрецедентной физикой, обеспечивающей невероятный уровень погружения, и головокружительными сражениями.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220/header.jpg?t=1745368545",
+      "url": "https://store.steampowered.com/app/220/",
+      "genres": [
+        "action"
+      ],
+      "primaryGenre": "action",
+      "modes": [
+        "solo"
+      ],
+      "platforms": [
+        "windows",
+        "linux"
+      ],
+      "free": false,
+      "price": "445 руб.",
+      "priceMinor": 44500,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 200553,
+        "negative": 4728
+      }
+    },
+    {
+      "id": 4000,
+      "title": "Garry's Mod",
+      "description": "Garry's Mod is a physics sandbox. There aren't any predefined aims or goals. We give you the tools and leave you to play.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg?t=1776868682",
+      "url": "https://store.steampowered.com/app/4000/",
+      "genres": [
+        "casual",
+        "indie",
+        "simulation"
+      ],
+      "primaryGenre": "casual",
+      "modes": [
+        "solo",
+        "multi",
+        "coop"
+      ],
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "free": false,
+      "price": "750 руб.",
+      "priceMinor": 75000,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 1068131,
+        "negative": 33149
+      }
+    },
+    {
+      "id": 253230,
+      "title": "A Hat in Time",
+      "description": "A Hat in Time is a cute-as-heck 3D platformer featuring a little girl who stitches hats for wicked powers! Freely explore giant worlds and recover Time Pieces to travel to new heights!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/253230/header.jpg?t=1790173529",
+      "url": "https://store.steampowered.com/app/253230/",
+      "genres": [
+        "adventure",
+        "indie"
+      ],
+      "primaryGenre": "adventure",
+      "modes": [
+        "solo",
+        "multi",
+        "coop"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "free": false,
+      "price": "1100 руб.",
+      "priceMinor": 110000,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 42151,
+        "negative": 882
+      }
+    },
+    {
+      "id": 232090,
+      "title": "Killing Floor 2",
+      "description": "Совместная мясорубка на шестерых против мутантов. А теперь и режим «Выживание VS» на 12 игроков — почувствуйте себя в шкуре мутанта!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/232090/header.jpg?t=1774538987",
+      "url": "https://store.steampowered.com/app/232090/",
+      "genres": [
+        "action"
+      ],
+      "primaryGenre": "action",
+      "modes": [
+        "solo",
+        "multi",
+        "coop"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "free": false,
+      "price": "899 руб.",
+      "priceMinor": 89900,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 77720,
+        "negative": 9693
+      }
+    },
+    {
+      "id": 233860,
+      "title": "Kenshi",
+      "description": "Отрядная ролевая игра со свободой передвижения, и акцентом на игровом процессе-песочнице с открытой концовкой, а не линейном сюжете. Торгуйте, воруйте, бунтуйте, воюйте, пуститесь в авантюру, займитесь фермерством, угодите в рабство, или на стол к людоедам.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233860/fa72ac8a032fd876780cd5b554e4c03b4976ef74/header.jpg?t=1779293333",
+      "url": "https://store.steampowered.com/app/233860/",
+      "genres": [
+        "action",
+        "indie",
+        "rpg",
+        "simulation",
+        "strategy"
+      ],
+      "primaryGenre": "action",
+      "modes": [
+        "solo"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "free": false,
+      "price": "1100 руб.",
+      "priceMinor": 110000,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 95187,
+        "negative": 4444
+      }
+    },
+    {
+      "id": 57300,
+      "title": "Amnesia: The Dark Descent",
+      "description": "Amnesia: The Dark Descent, a first person survival horror. A game about immersion, discovery and living through a nightmare. An experience that will chill you to the core.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/57300/header.jpg?t=1751032707",
+      "url": "https://store.steampowered.com/app/57300/",
+      "genres": [
+        "horror",
+        "action",
+        "adventure",
+        "indie"
+      ],
+      "primaryGenre": "horror",
+      "modes": [
+        "solo"
+      ],
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "free": false,
+      "price": "710 руб.",
+      "priceMinor": 71000,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 19670,
+        "negative": 942
+      }
+    },
+    {
+      "id": 282140,
+      "title": "SOMA",
+      "description": "Разработчики игры \"Amnesia: Призрак прошлого\" создали новый научно-фантастический ужастик SOMA, сюжет которого перенесёт вас на дно Атлантического океана. Вам предстоит бороться за жизнь в опасном мире, который заставит вас сомневаться в собственном существовании.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/282140/header.jpg?t=1786607913",
+      "url": "https://store.steampowered.com/app/282140/",
+      "genres": [
+        "horror",
+        "action",
+        "adventure",
+        "indie"
+      ],
+      "primaryGenre": "horror",
+      "modes": [
+        "solo"
+      ],
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "free": false,
+      "price": "1100 руб.",
+      "priceMinor": 110000,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 45573,
+        "negative": 1992
+      }
+    },
+    {
+      "id": 739630,
+      "title": "Phasmophobia",
+      "description": "Phasmophobia is a 4 player online co-op psychological horror. Paranormal activity is on the rise and it’s up to you and your team to use all the ghost-hunting equipment at your disposal in order to gather as much evidence as you can.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/c227a2855aba60f3657bc0c3a46515b8c41fb2b6/header.jpg?t=1794312564",
+      "url": "https://store.steampowered.com/app/739630/",
+      "genres": [
+        "horror",
+        "action",
+        "indie"
+      ],
+      "primaryGenre": "horror",
+      "modes": [
+        "solo",
+        "multi",
+        "coop"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "free": false,
+      "price": "849 руб.",
+      "priceMinor": 84900,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 649593,
+        "negative": 37331
+      }
+    },
+    {
+      "id": 274520,
+      "title": "Darkwood",
+      "description": "Darkwood — это новый взгляд на хоррор с выживанием. Собирайте ресурсы, исследуйте насыщенный открытый мир днем, а ночью укрывайтесь в убежище и молитесь о скором рассвете.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274520/18f5a6c6452d6292ebf9e4fcc199ce0759fb9a98/header.jpg?t=1795107180",
+      "url": "https://store.steampowered.com/app/274520/",
+      "genres": [
+        "horror",
+        "action",
+        "adventure",
+        "rpg",
+        "strategy"
+      ],
+      "primaryGenre": "horror",
+      "modes": [
+        "solo"
+      ],
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "free": false,
+      "price": "599 руб.",
+      "priceMinor": 59900,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 21487,
+        "negative": 1144
+      }
+    },
+    {
+      "id": 1349060,
+      "title": "It Steals",
+      "description": "AROUND EVERY CORNER. Face against stealthy antagonists that will take advantage of your expectations.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1349060/header.jpg?t=1667091081",
+      "url": "https://store.steampowered.com/app/1349060/",
+      "genres": [
+        "horror",
+        "action",
+        "indie"
+      ],
+      "primaryGenre": "horror",
+      "modes": [
+        "solo"
+      ],
+      "platforms": [
+        "windows"
+      ],
+      "free": false,
+      "price": "133 руб.",
+      "priceMinor": 13300,
+      "priceCurrency": "RUB",
+      "reviews": {
+        "positive": 2139,
+        "negative": 39
+      }
+    }
+  ]
+}
